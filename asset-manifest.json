@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Masroofy.git/static/css/main.a7b61d01.css",
+    "main.js": "/Masroofy.git/static/js/main.6a018774.js",
+    "static/js/453.727efe44.chunk.js": "/Masroofy.git/static/js/453.727efe44.chunk.js",
+    "index.html": "/Masroofy.git/index.html",
+    "main.a7b61d01.css.map": "/Masroofy.git/static/css/main.a7b61d01.css.map",
+    "main.6a018774.js.map": "/Masroofy.git/static/js/main.6a018774.js.map",
+    "453.727efe44.chunk.js.map": "/Masroofy.git/static/js/453.727efe44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b61d01.css",
+    "static/js/main.6a018774.js"
+  ]
+}
